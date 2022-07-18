@@ -15,7 +15,3 @@ createCommands();
 
 // 解析终端指令
 program.parse(process.argv);
-
-
-
-
